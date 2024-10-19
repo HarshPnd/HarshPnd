@@ -3,10 +3,10 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/posts/harshpnd_oci-2023-certified-devops-professional-activity-7111831691463159808-n4sK?utm_source=share&utm_medium=member_desktop">
-    <img src="./images/OCIDOP2023OPN.png" alt="OCIDP" width="relative" height="100px">
+    <img src="./images/OCIDOP2023OPN.png" alt="OCIDP" width="100px" height="100px">
   </a>
   <a href="https://www.linkedin.com/posts/harshpnd_oci-2023-certified-multicloud-architect-associate-activity-7111840153685377024-ccZ8?utm_source=share&utm_medium=member_desktop">
-    <img src="./images/OCI23MCCA.png" alt="OCIMCA" width="relative" height="100px">
+    <img src="./images/OCI23MCCA.png" alt="OCIMCA" width="100px" height="100px">
   </a>
   <a href="https://www.credly.com/badges/7776a801-b52b-4ca9-9dc5-c8ebbdf53e80">
     <img src="./images/az-400-designing-and-implementing-microsoft-devops-solutions.png" alt="Az400" width="100px" height="100px">
